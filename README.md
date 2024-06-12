@@ -34,5 +34,5 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, sinta-se à
 
 ## Créditos
 
-- Desenvolvido por [Átila Vasconcelos](https://grupo.jm7087.com)
+- Desenvolvido por [Átila Vasconcelos]
 
