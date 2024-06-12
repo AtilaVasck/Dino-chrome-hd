@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{00FDE296-6077-F19B-F265-5E9444C3DFD2}") = "Google Dino Game", "Assembly-CSharp-firstpass.csproj", "{C68D154A-D824-2C79-6CE6-36B360206BC1}"
+EndProject
+Project("{00FDE296-6077-F19B-F265-5E9444C3DFD2}") = "Google Dino Game", "Assembly-CSharp.csproj", "{713105D5-8C9C-1B9F-18E6-261ABFC48C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68D154A-D824-2C79-6CE6-36B360206BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68D154A-D824-2C79-6CE6-36B360206BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68D154A-D824-2C79-6CE6-36B360206BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68D154A-D824-2C79-6CE6-36B360206BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713105D5-8C9C-1B9F-18E6-261ABFC48C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713105D5-8C9C-1B9F-18E6-261ABFC48C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713105D5-8C9C-1B9F-18E6-261ABFC48C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713105D5-8C9C-1B9F-18E6-261ABFC48C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
